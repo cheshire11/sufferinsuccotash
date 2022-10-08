@@ -2,8 +2,7 @@ body{
         background-color: silver;
 }
 h1{
-    color: turquoise;
-    outline-color: black;
-    outline-width: thick;
+    color: cornflowerblue;
+    font-style: oblique;
     margin-left: 20px;
 }
