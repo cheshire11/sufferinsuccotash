@@ -4,5 +4,6 @@ body{
 h1{
     color: turquoise;
     outline-color: black;
+    outline-width: thick;
     margin-left: 20px;
 }
